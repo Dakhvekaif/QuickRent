@@ -1,13 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# QuickRent - Gadget Rental Landing Page
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# QuickRent
-QuickRent Web applications frontend landing page
->>>>>>> 392b3fcbdfc698cdba936f570673c63c608163f8
+# Deployed Link
+
+## You can view the deployed project [here](https://quick-rent-nine.vercel.app/).
+
+---
+
+## QuickRent is a responsive and visually appealing landing page for a mock startup that allows users to rent gadgets such as laptops, cameras, and gaming consoles. This project demonstrates design skills, coding proficiency, and the implementation of responsive web design using React and Tailwind CSS.
+
+---
+
+# Features
+
+- ## Hero Section: A captivating introduction with a tagline, call-to-action button, and an image relevant to gadget rentals.
+
+- ## Features Section: Highlights the platform's key features with icons for visual appeal.
+
+- ## Gadgets Section: Displays top gadget picks with pricing, features, and an option to list gadgets for rent. 
+
+- ## Contact Us Section: A simple form to connect with the team, including fields for name, email, and message.
+
+---
+
+# Screenshots 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
