@@ -4,7 +4,7 @@ function Navbar() {
   return (
         <nav className="bg-gray-800 text-white p-4">
           <div className="container mx-auto flex justify-between items-center">
-            <h1 className="text-2xl font-bold">QuickRent</h1>
+            <h1 className="text-l font-bold md:text-2xl ">QuickRent</h1>
             <ul className="flex space-x-4">
               <li><a href="#" className="hover:underline ">Home</a></li>
               <li><a href="#features" className="hover:underline">Features</a></li>
